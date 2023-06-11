@@ -1,0 +1,1 @@
+select count(id) as customers_count from customers;
